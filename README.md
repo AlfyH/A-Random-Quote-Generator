@@ -1,1 +1,1 @@
-# A Random Quote Generator
+A Random Quote Generator Program by Alfy
